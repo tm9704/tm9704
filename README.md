@@ -21,7 +21,7 @@
 </div>
 
 Here are some ideas to get you started:     
-- 🌱 I’m currently learning AOS & React
+- 🌱 I’m currently learning Dart & Flutter
 - 🤔 I’m looking for help with AOS & Kotlin skills
 - 💬 Ask me about anything
 - 📫 How to reach me: minhyung970430@gmail.com
